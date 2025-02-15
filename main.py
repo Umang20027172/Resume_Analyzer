@@ -209,7 +209,7 @@ def main():
     st.markdown("""
         ---
         <div style='text-align: center; color: #666;'>
-            <p>JobFit Analyzer Pro - Making resume analysis smarter and more efficient</p>
+            <p>Resume Analyzer - Making resume analysis smarter and more efficient</p>
         </div>
     """, unsafe_allow_html=True)
 
