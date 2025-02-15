@@ -1,1 +1,1 @@
-# Resume_Analyzer
+# CV_reviewer
